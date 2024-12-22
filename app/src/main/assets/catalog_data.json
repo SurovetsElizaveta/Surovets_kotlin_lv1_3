@@ -1,0 +1,508 @@
+{
+  "catalog": [
+    {
+      "category": "Диваны",
+      "name": "Угловой диван",
+      "price": 35000,
+      "photo": "https://ogogo.ru/images/products/176941/c7d8b914c8488c3ab67a94a3b7b227ce.webp",
+      "description": "Угловой диван с просторным местом для сидения.",
+      "material": "Ткань, дерево",
+      "color": "Терракотовый",
+      "dimensions": {
+        "length": "250",
+        "width": "200",
+        "height": "85"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Кофейный столик",
+      "price": 5000,
+      "photo": "https://ogogo.ru/images/products/233101/c99e41529c17f2238fa13adc718dfea3.webp",
+      "description": "Компактный кофейный столик для уютной гостиной.",
+      "material": "Стекло, металл",
+      "color": "Слоновая кость",
+      "dimensions": {
+        "length": "80",
+        "width": "80",
+        "height": "45"
+      }
+    },
+    {
+      "category": "Диваны",
+      "name": "Диван с подсветкой",
+      "price": 60000,
+      "photo": "https://ogogo.ru/images/products/113969/82933539ee89109bf1dc52db6ab8b794.webp",
+      "description": "Современный диван с LED-подсветкой.",
+      "material": "Ткань, металл",
+      "color": "Персиковый",
+      "dimensions": {
+        "length": "220",
+        "width": "90",
+        "height": "85"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Детский стул",
+      "price": 4000,
+      "photo": "https://ogogo.ru/images/products/248448/45cf1c5baa2cee2d694e93224b2dcfbd.webp",
+      "description": "Яркий детский стул для игр и учебы.",
+      "material": "Пластик",
+      "color": "Оранжевый",
+      "dimensions": {
+        "length": "40",
+        "width": "40",
+        "height": "70"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Письменный стол",
+      "price": 12000,
+      "photo": "https://ogogo.ru/images/products/86118/cbe22a8e7cbe4450c38afa466a950ded.webp",
+      "description": "Удобный письменный стол с местом для хранения.",
+      "material": "Дерево",
+      "color": "Черный, светлое дерево",
+      "dimensions": {
+        "length": "140",
+        "width": "70",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Кровать с ортопедическим матрасом",
+      "price": 50000,
+      "photo": "https://ogogo.ru/images/products/240458/95362583056db0ad90db140e5429339c.webp",
+      "description": "Комфортная кровать с ортопедическим матрасом.",
+      "material": "Дерево, текстиль",
+      "color": "Серый",
+      "dimensions": {
+        "length": "200",
+        "width": "160",
+        "height": "45"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Стол для пикника",
+      "price": 9000,
+      "photo": "https://ogogo.ru/images/products/214874/87fbc719e99b9acc21d1c4c2d513163c.webp",
+      "description": "Простой и удобный стол для пикника.",
+      "material": "Дерево",
+      "color": "Жёлтое дерево",
+      "dimensions": {
+        "length": "180",
+        "width": "70",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Обеденный стол",
+      "price": 15000,
+      "photo": "https://ogogo.ru/images/products/138270/436b2e3d9c57c2dcac164d2c87faf110.webp",
+      "description": "Стильный обеденный стол из натурального дерева.",
+      "material": "Дерево",
+      "color": "Мокко",
+      "dimensions": {
+        "length": "180",
+        "width": "90",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Раскладной стол",
+      "price": 18000,
+      "photo": "https://ogogo.ru/images/products/248586/e27532e7458471cd0c1d74aac4fe76f5.webp",
+      "description": "Раскладной стол для больших компаний.",
+      "material": "Дерево",
+      "color": "Чёрный, серый",
+      "dimensions": {
+        "length": "160-240",
+        "width": "90",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Барный стол",
+      "price": 7000,
+      "photo": "https://ogogo.ru/images/products/234647/c4cdb31b9e907e3fa49960e524b9ad50.webp",
+      "description": "Элегантный барный стол для кухни или бара.",
+      "material": "Металл, дерево",
+      "color": "Чёрный, мокко",
+      "dimensions": {
+        "length": "120",
+        "width": "60",
+        "height": "110"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Стол для переговоров",
+      "price": 25000,
+      "photo": "https://ogogo.ru/images/products/118854/416bb611541d04ef0c73957576b5e506.webp",
+      "description": "Большой стол для переговоров в офис.",
+      "material": "Дерево, стекло",
+      "color": "Чёрный, жёлтое дерево",
+      "dimensions": {
+        "length": "300",
+        "width": "120",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Трансформируемый стол",
+      "price": 22000,
+      "photo": "https://ogogo.ru/images/products/234827/05e399edb270418d32fa504e5da489be.webp",
+      "description": "Удобный трансформируемый стол для разных нужд.",
+      "material": "Дерево, металл",
+      "color": "Мраморный, красное дерево",
+      "dimensions": {
+        "length": "100-200",
+        "width": "70",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Стол с мрамерной столешницей",
+      "price": 30000,
+      "photo": "https://ogogo.ru/images/products/245295/15637d879eb466206b8dba8da8927d54.webp",
+      "description": "Элегантный стол с мраморной столешницей.",
+      "material": "Мрамор, металл",
+      "color": "Белый, золотой",
+      "dimensions": {
+        "length": "200",
+        "width": "100",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Столы",
+      "name": "Садовый стол",
+      "price": 15000,
+      "photo": "https://ogogo.ru/images/products/214881/c6bcaf4ec845860ab921225c8a07eb24.webp",
+      "description": "Устойчивый к погодным условиям садовый стол.",
+      "material": "Пластик, металл",
+      "color": "Жёлтое дерево",
+      "dimensions": {
+        "length": "150",
+        "width": "80",
+        "height": "75"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Кожаный стул",
+      "price": 8000,
+      "photo": "https://ogogo.ru/images/products/2613/20adcfd4ce2d8524fc64dde52097be00.webp",
+      "description": "Удобный кожаный стул с мягкой обивкой.",
+      "material": "Кожа, металл",
+      "color": "Серо-фиолетовый",
+      "dimensions": {
+        "length": "50",
+        "width": "50",
+        "height": "90"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Офисный стул",
+      "price": 6000,
+      "photo": "https://ogogo.ru/images/products/34304/ec66786d45a30d8ce8f8dd2cd46803aa.webp",
+      "description": "Регулируемый офисный стул с поддержкой поясницы.",
+      "material": "Ткань, пластик",
+      "color": "Серо-голубой",
+      "dimensions": {
+        "length": "60",
+        "width": "60",
+        "height": "100"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Барный стул",
+      "price": 7000,
+      "photo": "https://ogogo.ru/images/products/249393/3644bd5b10833c4ed805045d687a2b11.webp",
+      "description": "Высокий барный стул с мягким сиденьем.",
+      "material": "Дерево, кожа",
+      "color": "Тёмно-серый",
+      "dimensions": {
+        "length": "45",
+        "width": "45",
+        "height": "110"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Кресло-качалка",
+      "price": 12000,
+      "photo": "https://ogogo.ru/images/products/195574/6bd8aabf0d44d7f1a3273e1cec829159.webp",
+      "description": "Комфортное кресло-качалка для отдыха.",
+      "material": "Дерево, текстиль",
+      "color": "Мятный",
+      "dimensions": {
+        "length": "70",
+        "width": "80",
+        "height": "100"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Стул для отдыха",
+      "price": 15000,
+      "photo": "https://ogogo.ru/images/products/155102/25827e0ad94d50ca0bf7d0a9135a51c8.webp",
+      "description": "Удобное кресло для отдыха с подставкой для ног.",
+      "material": "Ткань, дерево",
+      "color": "Белый, жёлтое дерево",
+      "dimensions": {
+        "length": "80",
+        "width": "90",
+        "height": "100"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Складной стул",
+      "price": 3500,
+      "photo": "https://ogogo.ru/images/products/214873/6bbdf5dafaee932a3b44450d44194965.webp",
+      "description": "Легкий складной стул для дачи или пикника.",
+      "material": "Металл, ткань",
+      "color": "Жёлтое дерево",
+      "dimensions": {
+        "length": "50",
+        "width": "50",
+        "height": "85"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Кресло с подлокотниками",
+      "price": 9000,
+      "photo": "https://ogogo.ru/images/products/234312/6c08e10a8d14194d417408ab2c126911.webp",
+      "description": "Комфортное кресло с подлокотниками и мягким сиденьем.",
+      "material": "Ткань, дерево",
+      "color": "Оранжевый",
+      "dimensions": {
+        "length": "70",
+        "width": "80",
+        "height": "90"
+      }
+    },
+    {
+      "category": "Стулья",
+      "name": "Ресторанный стул",
+      "price": 10000,
+      "photo": "https://ogogo.ru/images/products/121008/a4bef594fcee08ff2831c9e090eb3a8e.webp",
+      "description": "Элегантный стул для ресторанов и кафе.",
+      "material": "Дерево, кожа",
+      "color": "Бежевый, чёрный",
+      "dimensions": {
+        "length": "60",
+        "width": "60",
+        "height": "95"
+      }
+    },
+    {
+      "category": "Диваны",
+      "name": "Диван-кровать",
+      "price": 30000,
+      "photo": "https://ogogo.ru/images/products/206363/5d768ca2c6c5fc7865528fa4323bd684.webp",
+      "description": "Удобный диван-кровать для небольших помещений.",
+      "material": "Ткань, металл",
+      "color": "Коричневый",
+      "dimensions": {
+        "length": "200",
+        "width": "90",
+        "height": "85"
+      }
+    },
+    {
+      "category": "Диваны",
+      "name": "Классический диван",
+      "price": 40000,
+      "photo": "https://ogogo.ru/images/products/9392/eb6d7535fe3ce9b8554f2512ba0cf713.webp",
+      "description": "Элегантный классический диван с мягкой обивкой.",
+      "material": "Ткань, дерево",
+      "color": "Светло-серый",
+      "dimensions": {
+        "length": "220",
+        "width": "100",
+        "height": "85"
+      }
+    },
+    {
+      "category": "Диваны",
+      "name": "Мини-дивашка",
+      "price": 20000,
+      "photo": "https://ogogo.ru/images/products/103680/d63ded488d233555862d45536b8e9205.webp",
+      "description": "Компактный диван для маленьких пространств.",
+      "material": "Ткань, дерево",
+      "color": "Кремовый",
+      "dimensions": {
+        "length": "150",
+        "width": "80",
+        "height": "85"
+      }
+    },
+    {
+      "category": "Диваны",
+      "name": "Диван с реклайнером",
+      "price": 45000,
+      "photo": "https://ogogo.ru/images/products/231273/0816ef0da81243bba811876e7413442f.webp",
+      "description": "Удобный диван с функцией реклайнера.",
+      "material": "Ткань, металл",
+      "color": "Кремовый",
+      "dimensions": {
+        "length": "220",
+        "width": "100",
+        "height": "90"
+      }
+    },
+    {
+      "category": "Диваны",
+      "name": "Модульный диван",
+      "price": 50000,
+      "photo": "https://ogogo.ru/images/products/175980/1bb2bdcdec8ac2a7772ca8703db222e7.webp",
+      "description": "Модульный диван, который можно собрать по своему вкусу.",
+      "material": "Ткань, дерево",
+      "color": "Белый",
+      "dimensions": {
+        "length": "220",
+        "width": "100",
+        "height": "90"
+      }
+    },
+    {
+      "category": "Диваны",
+      "name": "Софа в стиле лофт",
+      "price": 35000,
+      "photo": "https://ogogo.ru/images/products/61069/e2d015d25cabf74d71e0f3789d071486.webp",
+      "description": "Софа в стиле лофт с грубой отделкой.",
+      "material": "Ткань, металл",
+      "color": "Тёмно-серый",
+      "dimensions": {
+        "length": "200",
+        "width": "100",
+        "height": "85"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Двуспальная кровать",
+      "price": 25000,
+      "photo": "https://ogogo.ru/images/products/213484/2894a312819d3152bb01ce52d2b9e1f2.webp",
+      "description": "Комфортабельная двуспальная кровать с ортопедическим матрасом.",
+      "material": "Дерево, ткань",
+      "color": "Бежевый",
+      "dimensions": {
+        "length": "220",
+        "width": "180",
+        "height": "45"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Односпальная кровать",
+      "price": 15000,
+      "photo": "https://ogogo.ru/images/products/77028/6606098a1d9da15ab669db77b17a60d5.webp",
+      "description": "Удобная односпальная кровать для детей и подростков.",
+      "material": "Дерево, ткань",
+      "color": "Оранжевый",
+      "dimensions": {
+        "length": "200",
+        "width": "90",
+        "height": "45"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Кровать с ящиками",
+      "price": 30000,
+      "photo": "https://ogogo.ru/images/products/94408/24e42fb9e64140f9182a97533691583d.webp",
+      "description": "Кровать с ящиками для хранения вещей.",
+      "material": "Дерево",
+      "color": "Белый",
+      "dimensions": {
+        "length": "200",
+        "width": "160",
+        "height": "45"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Кровать-чердак",
+      "price": 35000,
+      "photo": "https://ogogo.ru/images/products/94730/3d64aaef25dcc7a673bc7f706f4dca4e.webp",
+      "description": "Кровать-чердак для экономии пространства.",
+      "material": "Дерево",
+      "color": "Светлое дерево",
+      "dimensions": {
+        "length": "210",
+        "width": "100",
+        "height": "180"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Кровать с балдахином",
+      "price": 35000,
+      "photo": "https://ogogo.ru/images/products/151323/8b4ec496cf29e3669cdbdccc184e098b.webp",
+      "description": "Элегантная кровать с балдахином.",
+      "material": "Дерево, текстиль",
+      "color": "Розовый",
+      "dimensions": {
+        "length": "220",
+        "width": "180",
+        "height": "220"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Кровать с подъемным механизмом",
+      "price": 60000,
+      "photo": "https://ogogo.ru/images/products/238673/e9e7dc0f347896afb23046602f1b9c34.webp",
+      "description": "Кровать с подъемным механизмом для хранения вещей.",
+      "material": "Дерево",
+      "color": "Кремовый",
+      "dimensions": {
+        "length": "200",
+        "width": "160",
+        "height": "45"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Кровать с мягким изголовьем",
+      "price": 45000,
+      "photo": "https://ogogo.ru/images/products/92961/ffe5ade0b529e96b0caecda647c3d379.webp",
+      "description": "Кровать с мягким изголовьем для комфортного отдыха.",
+      "material": "Дерево, текстиль",
+      "color": "Фиолетовый",
+      "dimensions": {
+        "length": "200",
+        "width": "160",
+        "height": "45"
+      }
+    },
+    {
+      "category": "Кровати",
+      "name": "Кровать-трансформер",
+      "price": 70000,
+      "photo": "https://ogogo.ru/images/products/191583/c9f63674499b10ca0924e07bb4ced4b9.webp",
+      "description": "Уникальная кровать-трансформер для небольших помещений.",
+      "material": "Металл, текстиль",
+      "color": "Светло-серый",
+      "dimensions": {
+        "length": "200",
+        "width": "160",
+        "height": "45"
+      }
+    }
+  ]
+}

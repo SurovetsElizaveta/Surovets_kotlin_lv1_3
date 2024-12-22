@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Surovets_kotlin_lv1_3</string>
+    <string name="search_placeholder">Поиск</string>
+    <string name="buy_button_text">Купить</string>
+    <string name="cart_header">Корзина</string>
+    <string name="cart_minus">-</string>
+    <string name="cart_plus">+</string>
+    <string name="cart_total">Итого:</string>
+    <string name="cart_delivery_header">Доставка: </string>
+    <string name="cart_pay_header">Способ оплаты: </string>
+    <string name="cart_place_on_order_button_text">Оформить заказ</string>
+    <string name="rubles">₽</string>
+    <string name="cart_product_size">Размеры: </string>
+    <string name="size_star">*</string>
+    <string name="cart_product_color">Цвет: </string>
+    <string name="delivery_date">28 декабря</string>
+    <string name="payment_variant">при получении</string>
 </resources>
